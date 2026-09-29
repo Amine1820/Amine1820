@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Amine 👋<br>Software engineer designing and building applications across mobile, desktop, and backend.<br><br>- 🔭 I'm currently working on a distributed cache in Java<br>- 👯 I'm looking to collaborate on Android apps, backend services, and application design<br>- 🌱 I'm currently learning Java RMI and cache implementation<br>- 💬 Ask me about software development and Java<br>- 
+# Hi, I'm Amine 👋<br>Software engineer designing and building applications across mobile, desktop, and backend.<br><br>- 🔭 I'm currently working on a distributed cache in Java<br>- 👯 I'm looking to collaborate on Android apps, backend services, and application design<br>- 🌱 I'm currently learning Java RMI and cache implementation<br>- 💬 Ask me about software development and Java<br>
 
 
 ## 🌐 Socials:
